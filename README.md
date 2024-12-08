@@ -1,4 +1,8 @@
-## Hi there 👋
+### Olá meu nome è Vinicius Valverde, prazer em te conhecer. 😊🤙🏾
+
+[![lLnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-valverde-9b2640234/)
+
+![Valverde08 GitHub stats](https://github-readme-stats.vercel.app/api?username=Valverde08&show_icons=true&theme=dracula)
 
 <!--
 **Valverde08/Valverde08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
