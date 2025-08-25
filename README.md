@@ -1,4 +1,4 @@
-### Olá meu nome è Vinicius Valverde, prazer em te conhecer. 😊🤙🏾
+### Olá meu nome é Vinicius Valverde, prazer em te conhecer. 😊🤙🏾
 
 [![lLnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-valverde-9b2640234/)
 
